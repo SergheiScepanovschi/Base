@@ -1,5 +1,5 @@
 
- int function()
+ int function(int a)
 {
-  return 0;
+  return a;
 }
